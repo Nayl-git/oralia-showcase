@@ -12,7 +12,7 @@
 > **This repository is a showcase.** The source code is private; I am happy to give a live demo
 > or walk through the code in an interview. The interface is in French.
 
-![OralIA demo: hold F9, speak, local transcription and AI clean-up, text inserted at the cursor](media/oralia-demo.gif)
+![OralIA demo: hold F9, speak, local transcription and AI clean-up, text inserted at the cursor](media/oralia-demo.webp)
 
 <sub>The dictation overlay frames come from the real app and the inserted sentence is the real output of the local model; the editor and desktop around them are a mock-up.</sub>
 
